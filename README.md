@@ -32,8 +32,11 @@ I enjoy playing the **piano** and **working out** at gym. 🎹💪
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
   <a href="https://kdjun97.github.io/">
-    <img src="http://img.shields.io/badge/-Github%20Blog-655ced?style=flat&logo=github&link=https://kdjun97.github.io/"
+    <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://kdjun97.github.io/"
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+  <a href="mailto:kdjun97@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kdjun97@gmail.com"/>
   </a>
   <!--
   <a href=https://www.instagram.com/jumy_dong/>
