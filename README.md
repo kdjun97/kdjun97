@@ -67,7 +67,7 @@
 </p>
 
 <div align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fehdwnsf)](https://solved.ac/fehdwnsf/)
+  <a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=fehdwnsf"></a>
 </div><br>
 
 <h3 align="center"> 💬 Ask Me 💬 </h3>
