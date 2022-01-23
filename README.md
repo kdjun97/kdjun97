@@ -75,7 +75,6 @@ Here are some ideas to get you started:
 <!-- Reference URLs -->
 [c]: https://www.cprogramming.com/
 [html]: https://github.com/search?q=html
-[css]: https://github.com/search?q=css
 [javascript]: https://github.com/search?q=javascript
 [mysql]: https://www.mysql.com/
 [git]: https://git-scm.com/
