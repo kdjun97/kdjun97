@@ -46,6 +46,12 @@ I enjoy playing the **piano** and **working out** at gym. 🎹💪
   -->
 </p>
 
+---
+
+<p>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+</p>
+
 <!--
 **kdjun97/kdjun97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
