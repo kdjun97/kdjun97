@@ -62,7 +62,7 @@
 <h3 align="center"> ✨ About Me ✨ </h3>
 
 <p align="center">
-  Hi! 👩🏻‍💻 I wanna be **Mobile App Developer** using Android and IOS. 📱<br>
+  Hi! 👩🏻‍💻 I wanna be <style font-style="bold">Mobile App Developer</style> using Android and IOS. 📱<br>
   I enjoy playing the **piano** and **working out** at gym. 🎹💪
 </p>
 
