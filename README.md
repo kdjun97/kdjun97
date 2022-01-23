@@ -49,11 +49,16 @@ I enjoy playing the **piano** and **working out** at gym. 🎹💪
 ---
 
 [<img alt="C" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][c]
+[<img alt="C++" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
+<!-- CS -->
+[<img alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
+[<img alt="Java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][java]
+
+
 [<img alt="HTML" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+<!-- CSS -->
+[<img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][javascript]
 [<img alt="Mysql" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img alt="Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git]
-[<img alt="GitHub" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 <!--
 **kdjun97/kdjun97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -72,8 +77,10 @@ Here are some ideas to get you started:
 
 <!-- Reference URLs -->
 [c]: https://www.cprogramming.com/
+[cpp]: https://www.w3schools.com/cpp/
+[cs]: https://www.w3schools.com/cs/
+[python]: https://www.python.org
+[java]: https://www.java.com
 [html]: https://github.com/search?q=html
 [javascript]: https://github.com/search?q=javascript
 [mysql]: https://www.mysql.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/
