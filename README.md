@@ -66,6 +66,8 @@
   I enjoy playing the piano and working out at gym. 🎹💪
 </p><br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fehdwnsf)](https://solved.ac/fehdwnsf/)
+
 <h3 align="center"> 💬 Ask Me 💬 </h3>
 
 <p align="center">
