@@ -32,7 +32,7 @@ I enjoy playing the **piano** and **working out** at gym. 🎹💪
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
   <a href="https://kdjun97.github.io/">
-    <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://kdjun97.github.io/"
+    <img src="http://img.shields.io/badge/-Github%20Blog-655ced?style=flat&logo=github&link=https://kdjun97.github.io/"
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
   <!--
