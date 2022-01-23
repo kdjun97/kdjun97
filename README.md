@@ -24,6 +24,40 @@
   <a href="https://www.cprogramming.com/">
     <img alt="C" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
   </a>
+  <a href="https://www.cprogramming.com/">
+    <img alt="C++" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+  </a>
+  <a href="https://www.cprogramming.com/">
+    <img alt="CS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  </a>
+  <a href="https://www.cprogramming.com/">
+    <img alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  </a>
+  <a href="https://www.cprogramming.com/">
+    <img alt="Java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  </a>
+  <a href="https://www.cprogramming.com/">
+    <img alt="HTML" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg"/>
+  </a>
+  <a href="https://www.cprogramming.com/">
+    <img alt="CSS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg"/>
+  </a>
+  <a href="https://www.cprogramming.com/">
+    <img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+  </a>
+  <a href="https://www.cprogramming.com/">
+    <img alt="Dart" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"/>
+  </a>
+  <a href="https://www.cprogramming.com/">
+    <img alt="Flutter" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
+  </a>
+  <a href="https://www.cprogramming.com/">
+    <img alt="Docker" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+  </a>
+  <a href="https://www.cprogramming.com/">
+    <img alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+  </a>
+  
   [<img alt="C++" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
   [<img alt="CS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />][cs]
   [<img alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
