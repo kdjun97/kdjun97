@@ -48,14 +48,14 @@ I enjoy playing the **piano** and **working out** at gym. 🎹💪
 
 ---
 
-<p>  
+<div>  
   [<img alt="C" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][c]
   [<img alt="HTML" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
   [<img alt="Mysql" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
   [<img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
   [<img alt="Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git]
   [<img alt="GitHub" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-</p>
+</div>
 
 <!--
 **kdjun97/kdjun97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
