@@ -10,7 +10,7 @@
   I enjoy playing the piano and working out at gym. 🎹💪
 </p><br>
 
-<h3 align="center">💻 Program Solving 💻</h3>
+<h3 align="center">👨‍💻 Program Solving 👨‍💻</h3>
 <div align="center">
   <a href="https://solved.ac/fehdwnsf"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fehdwnsf"></a>
 </div><br>
