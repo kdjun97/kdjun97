@@ -22,7 +22,7 @@
 
 <div algin="center">
   <a href="https://www.cprogramming.com/">
-    <img algin="center" alt="C" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+    <img text-algin="center" alt="C" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
   </a>
 </div>
 
