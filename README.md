@@ -24,6 +24,9 @@
   <a href="https://www.cprogramming.com/">
     <img algin="center" alt="C" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
   </a>
+  <a href="https://www.w3schools.com/cpp/">
+    <img algin="center" alt="C++" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+  </a>
 </p>
 
 <!--
