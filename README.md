@@ -63,7 +63,7 @@
 
 <p align="center">
   Hi! 👩🏻‍💻 I wanna be Mobile App Developer using Android and IOS. 📱<br>
-  I enjoy playing the **piano** and **working out** at gym. 🎹💪
+  I enjoy playing the piano and working out at gym. 🎹💪
 </p>
 
 <h3 align="center"> 💬 Ask Me 💬 </h3>
