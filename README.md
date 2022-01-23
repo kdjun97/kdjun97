@@ -31,6 +31,10 @@ I enjoy playing the **piano** and **working out** at gym. 🎹💪
     <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/jumy_dong/"
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
+  <a href="https://kdjun97.github.io/">
+    <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://kdjun97.github.io/"
+         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
   <!--
   <a href=https://www.instagram.com/jumy_dong/>
     <img src="https://img.shields.io/badge/Instagram-E4405F?black-style=flat-square&logo=Instagram&logoColor=white"/>
