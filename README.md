@@ -21,7 +21,9 @@
 </p>
 
 <div algin="center">
-  [<img alt="C" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][c]
+  <a href="https://www.cprogramming.com/">
+    <img alt="C" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+  </a>
   [<img alt="C++" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
   [<img alt="CS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />][cs]
   [<img alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
