@@ -21,12 +21,14 @@
 
 ### ✨ About Me ✨
 
-Hi! I wanna be **Mobile App Developer** using Android and IOS. 📱
-
+Hi! 👩🏻‍💻 I wanna be **Mobile App Developer** using Android and IOS. 📱
 I enjoy playing the **piano** and **working out** at gym. 🎹💪
 
 ### 💬 Ask Me 💬
 
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"link=https://www.instagram.com/jumy_dong/>
+</p>
 
 <!--
 **kdjun97/kdjun97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
