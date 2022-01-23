@@ -24,51 +24,39 @@
   <a href="https://www.cprogramming.com/">
     <img alt="C" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
   </a>
-  <a href="https://www.cprogramming.com/">
+  <a href="https://www.w3schools.com/cpp/">
     <img alt="C++" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
   </a>
-  <a href="https://www.cprogramming.com/">
+  <a href="https://www.w3schools.com/cs/">
     <img alt="CS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   </a>
-  <a href="https://www.cprogramming.com/">
+  <a href="https://www.python.org">
     <img alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   </a>
-  <a href="https://www.cprogramming.com/">
+  <a href="https://www.java.com/en">
     <img alt="Java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   </a>
-  <a href="https://www.cprogramming.com/">
+  <a href="https://www.w3schools.com/html">
     <img alt="HTML" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
   </a>
-  <a href="https://www.cprogramming.com/">
+  <a href="https://www.w3schools.com/css/">
     <img alt="CSS" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
   </a>
-  <a href="https://www.cprogramming.com/">
+  <a href="https://www.w3schools.com/js">
     <img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
   </a>
-  <a href="https://www.cprogramming.com/">
+  <a href="https://dart.dev/">
     <img alt="Dart" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"/>
   </a>
-  <a href="https://www.cprogramming.com/">
+  <a href="https://flutter.dev/">
     <img alt="Flutter" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
   </a>
-  <a href="https://www.cprogramming.com/">
+  <a href="https://www.docker.com/">
     <img alt="Docker" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
   </a>
-  <a href="https://www.cprogramming.com/">
+  <a href="https://www.mysql.com/">
     <img alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
   </a>
-  
-  [<img alt="C++" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
-  [<img alt="CS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />][cs]
-  [<img alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
-  [<img alt="Java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][java]
-  [<img alt="HTML" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-  [<img alt="CSS" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-  [<img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][javascript]
-  [<img alt="Dart" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][dart]
-  [<img alt="Flutter" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][flutter]
-  [<img alt="Docker" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />][docker]
-  [<img alt="Mysql" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 </div>
 
 <h3 align="center"> ✨ About Me ✨ </h3>
@@ -113,17 +101,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- Reference URLs -->
-[c]: https://www.cprogramming.com/
-[cpp]: https://www.w3schools.com/cpp/
-[cs]: https://www.w3schools.com/cs/
-[python]: https://www.python.org
-[java]: https://www.java.com
-[html]: https://github.com/search?q=html
-[css]: https://www.w3schools.com/css/
-[javascript]: https://github.com/search?q=javascript
-[dart]: https://dart.dev/
-[flutter]: https://flutter.dev/
-[docker]: https://www.docker.com/
-[mysql]: https://www.mysql.com/
