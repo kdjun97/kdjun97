@@ -1,6 +1,8 @@
-### Hi there 👋
+<div algin="right">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdjun97&count_bg=%23FFB000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=view&edge_flat=false"/></a>
+</div>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdjun97&count_bg=%238387C2&title_bg=%23FF9900&icon=&icon_color=%23E7E7E7&title=view&edge_flat=false"/></a>
+### Hi there 👋
 
 <!--
 **kdjun97/kdjun97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
