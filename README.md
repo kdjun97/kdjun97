@@ -59,12 +59,12 @@
   </a>
 </p>
 
-$$
+<center>
 ### ✨ About Me ✨
 
 Hi! 👩🏻‍💻 I wanna be **Mobile App Developer** using Android and IOS. 📱<br>
 I enjoy playing the **piano** and **working out** at gym. 🎹💪
-$$
+</center>
 
 <h3 align="center"> 💬 Ask Me 💬 </h3>
 
