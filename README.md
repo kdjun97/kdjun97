@@ -20,12 +20,12 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
-<div float="center">
+<p align="center">
   <a href="https://www.cprogramming.com/">
-    <img alt="C" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+    <img align="center" alt="C" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
   </a>
 </div>
-
+<!--
 <div algin="center">
   <p algin="center">
     <a href="https://www.cprogramming.com/">
@@ -66,7 +66,7 @@
     </a>
   </p>
 </div>
-
+-->
 <h3 align="center">✨ About Me ✨</h3>
 
 <p align="center">
