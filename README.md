@@ -27,16 +27,6 @@
   <a href="https://www.w3schools.com/cpp/">
     <img algin="center" alt="C++" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
   </a>
-</p>
-
-<!--
-<p algin="center">
-  <a href="https://www.cprogramming.com/">
-    <img algin="center" alt="C" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/">
-    <img algin="center" alt="C++" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-  </a>
   <a href="https://www.w3schools.com/cs/">
     <img algin="center" alt="CS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   </a>
@@ -67,8 +57,7 @@
   <a href="https://www.mysql.com/">
     <img algin="center" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
   </a>
-</div>
--->
+</p>
 
 <h3 align="center">✨ About Me ✨</h3>
 
