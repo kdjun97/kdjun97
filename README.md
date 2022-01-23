@@ -3,6 +3,18 @@
   </a>
 </div><br>
 
+<h3 align="center">✨ About Me ✨</h3>
+
+<p align="center">
+  Hi! 👩🏻‍💻 I wanna be Mobile App Developer using Android and IOS. 📱<br>
+  I enjoy playing the piano and working out at gym. 🎹💪
+</p><br>
+
+<h3 align="center">✨ Program Solving ✨</h3>
+<div align="center">
+  <a href="https://solved.ac/fehdwnsf"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fehdwnsf"></a>
+</div><br>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
@@ -58,20 +70,6 @@
     <img algin="center" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
   </a>
 </p><br>
-
-<h3 align="center">✨ About Me ✨</h3>
-
-<p align="center">
-  Hi! 👩🏻‍💻 I wanna be Mobile App Developer using Android and IOS. 📱<br>
-  I enjoy playing the piano and working out at gym. 🎹💪
-</p>
-
-<div align="center">
-  <a href="https://solved.ac/fehdwnsf"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fehdwnsf"></a>
-</div><br>
-<div align="center">
-  Silver 💍<a href="https://solved.ac/fehdwnsf"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=fehdwnsf"></a>
-</div><br>
 
 <h3 align="center"> 💬 Ask Me 💬 </h3>
 
