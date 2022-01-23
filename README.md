@@ -64,10 +64,10 @@
 <p align="center">
   Hi! 👩🏻‍💻 I wanna be Mobile App Developer using Android and IOS. 📱<br>
   I enjoy playing the piano and working out at gym. 🎹💪
-</p><br>
-<div align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fehdwnsf)](https://solved.ac/fehdwnsf/)
-</div>
+</p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fehdwnsf)](https://solved.ac/fehdwnsf/)
+<br>
+
 <h3 align="center"> 💬 Ask Me 💬 </h3>
 
 <p align="center">
