@@ -21,7 +21,7 @@
 
 ### ✨ About Me ✨
 
-Hi! 👩🏻‍💻 I wanna be **Mobile App Developer** using Android and IOS. 📱
+Hi! 👩🏻‍💻 I wanna be **Mobile App Developer** using Android and IOS. 📱<br>
 I enjoy playing the **piano** and **working out** at gym. 🎹💪
 
 ### 💬 Ask Me 💬
