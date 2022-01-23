@@ -56,6 +56,9 @@ I enjoy playing the **piano** and **working out** at gym. 🎹💪
 [<img alt="HTML" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img alt="CSS" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][javascript]
+[<img alt="Dart" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][dart]
+[<img alt="Flutter" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][flutter]
+[<img alt="Docker" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />][docker]
 [<img alt="Mysql" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 
 <!--
@@ -82,4 +85,7 @@ Here are some ideas to get you started:
 [html]: https://github.com/search?q=html
 [css]: https://www.w3schools.com/css/
 [javascript]: https://github.com/search?q=javascript
+[dart]: https://dart.dev/
+[flutter]: https://flutter.dev/
+[docker]: https://www.docker.com/
 [mysql]: https://www.mysql.com/
