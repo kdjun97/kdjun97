@@ -1,4 +1,4 @@
-<div algin="right">
+<div algin="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdjun97&count_bg=%23FFB000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=view&edge_flat=false"/>
   </a>
 </div>
@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
+<div algin="center">
+
 [<img alt="C" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][c]
 [<img alt="C++" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
 [<img alt="CS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />][cs]
@@ -33,15 +35,18 @@
 [<img alt="Docker" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />][docker]
 [<img alt="Mysql" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 
+</div>
 
-### ✨ About Me ✨
+<h3 align="center"> ✨ About Me ✨ </h3>
 
-Hi! 👩🏻‍💻 I wanna be **Mobile App Developer** using Android and IOS. 📱<br>
-I enjoy playing the **piano** and **working out** at gym. 🎹💪
+<p align="center">
+  Hi! 👩🏻‍💻 I wanna be **Mobile App Developer** using Android and IOS. 📱<br>
+  I enjoy playing the **piano** and **working out** at gym. 🎹💪
+</p>
 
-### 💬 Ask Me 💬
+<h3 align="center"> 💬 Ask Me 💬 </h3>
 
-<p>
+<p align="center">
   <a href="https://www.instagram.com/jumy_dong/">
     <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/jumy_dong/"
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
