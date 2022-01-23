@@ -37,10 +37,10 @@
     <img alt="Java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   </a>
   <a href="https://www.cprogramming.com/">
-    <img alt="HTML" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg"/>
+    <img alt="HTML" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
   </a>
   <a href="https://www.cprogramming.com/">
-    <img alt="CSS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg"/>
+    <img alt="CSS" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
   </a>
   <a href="https://www.cprogramming.com/">
     <img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
@@ -55,7 +55,7 @@
     <img alt="Docker" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
   </a>
   <a href="https://www.cprogramming.com/">
-    <img alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+    <img alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
   </a>
   
   [<img alt="C++" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
