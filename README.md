@@ -67,7 +67,7 @@
 </p>
 
 <div align="center">
-  <a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=fehdwnsf"></a>
+  <a href="https://solved.ac/fehdwnsf"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fehdwnsf"></a>
 </div><br>
 
 <h3 align="center"> 💬 Ask Me 💬 </h3>
