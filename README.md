@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
-<div algin="center">
+<p algin="center">
   <a href="https://www.cprogramming.com/">
     <img alt="C" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
   </a>
@@ -57,7 +57,7 @@
   <a href="https://www.mysql.com/">
     <img alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
   </a>
-</div>
+</p>
 
 <h3 align="center"> ✨ About Me ✨ </h3>
 
