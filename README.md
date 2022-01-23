@@ -27,7 +27,9 @@ I enjoy playing the **piano** and **working out** at gym. 🎹💪
 ### 💬 Ask Me 💬
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"link=https://www.instagram.com/jumy_dong/>
+  <a href=https://www.instagram.com/jumy_dong/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+  </a>
 </p>
 
 <!--
