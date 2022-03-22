@@ -15,7 +15,7 @@
   <a href="https://solved.ac/fehdwnsf"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fehdwnsf"></a>
 </div><br>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">✏️ Once I've Used ✏️</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
