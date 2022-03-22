@@ -6,7 +6,7 @@
 <h3 align="center">✨ About Me ✨</h3>
 
 <p align="center">
-  Hi! I wanna be Mobile App Developer using Android and IOS. 📱<br>
+  Hi! I wanna be Mobile App Developer using Android. 📱<br>
   I enjoy playing the piano and working out at gym. 🎹💪
 </p><br>
 
