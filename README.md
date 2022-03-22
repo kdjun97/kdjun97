@@ -16,7 +16,7 @@
 </div><br>
 
 <h3 align="center">📊 Github Stats 📊</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdjun97&show_icons=true)
+<a href="https://github-readme-stats.vercel.app/api?username=kdjun97&show_icons=true"></a>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
