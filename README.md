@@ -11,11 +11,12 @@
 </p><br>
 
 <details>
-  <summary style="font-size:9pt;"> Experience </summary><br>
+  <summary> Experience </summary><br>
     <details>
       <summary> Internship </summary>
         <ul>
           <li>First</li>
+          <li>Second></li>
         </ul>
     </details>
 </details>
