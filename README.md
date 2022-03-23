@@ -29,7 +29,7 @@
 
 <h3 align="center">👨‍💻 Program Solving 👨‍💻</h3>
 <div align="center">
-  <a href="https://solved.ac/fehdwnsf"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fehdwnsf"></a>
+  <a href="https://solved.ac/fehdwnsf"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=fehdwnsf"></a>
 </div><br>
 
 <div align=center>
