@@ -12,14 +12,10 @@
 
 <details>
   <summary> Experience </summary><br>
-    <ul>
-      <li>
-        <details> Internship </details>
-          <ul>
-            <li>ff</li>
-          </ul>
-      </li>
-    </ul>
+    <details> Internship </details>
+      <ul>
+        <li>ff</li>
+      </ul>
 </details>
 <details>
   <summary> Interest </summary>
