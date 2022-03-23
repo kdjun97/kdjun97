@@ -11,7 +11,7 @@
 </p><br>
 
 <details>
-  <summary style="font-size:9;"> Experience </summary><br>
+  <summary style="font-size:9pt;"> Experience </summary><br>
     <details>
       <summary> Internship </summary>
         <ul>
