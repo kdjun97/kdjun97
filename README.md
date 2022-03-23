@@ -15,6 +15,11 @@
   <a href="https://solved.ac/fehdwnsf"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fehdwnsf"></a>
 </div><br>
 
+<div align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=kdjun97"></a>
+</div>
+
+
 <h3 align="center">✏️ Once I've Used ✏️</h3>
 
 <p align="center">
