@@ -1,15 +1,21 @@
+<!--
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdjun97&count_bg=%23FFB000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=view&edge_flat=false">
   </a>
   <a href="https://solved.ac/fehdwnsf"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=fehdwnsf"></a>
 </div>
+-->
 
-<h3 align="center">✨ About Me ✨</h3>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align"right" src="https://github-readme-stats.vercel.app/api?username=kdjun97"></a>
+</div>
 
-<p align="center">
-  Hi! I wanna be Mobile App Developer using Android. 📱<br>
-  I enjoy playing the piano and working out at gym. 🎹💪
-</p>
+<h3>✨ About Me ✨</h3>
+
+Hi! I wanna be Mobile App Developer using Android. 📱<br>
+I enjoy playing the piano and working out at gym. 🎹💪
+
+<!--
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 
@@ -55,3 +61,4 @@
   </a>
   -->
 </p>
+-->
