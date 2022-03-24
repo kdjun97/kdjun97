@@ -12,9 +12,7 @@
   <h3>✨ About Me ✨</h3>
   Hi! I wanna be Mobile App Developer using Android. 📱<br>
   I enjoy playing the piano and working out at gym. 🎹💪
-  
-  ---  
-  
+   
   <h3> 💬 Ask Me 💬 </h3>
 
   <p>
