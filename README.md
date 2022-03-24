@@ -10,9 +10,15 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align"right" src="https://github-readme-stats.vercel.app/api?username=kdjun97"></a>
 
   <h3>✨ About Me ✨</h3>
-
   Hi! I wanna be Mobile App Developer using Android. 📱<br>
   I enjoy playing the piano and working out at gym. 🎹💪
+  
+  ---
+  <a href="https://www.instagram.com/jumy_dong/">
+    <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/jumy_dong/"
+         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+  
   
   
 </div>
