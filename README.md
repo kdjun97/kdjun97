@@ -11,23 +11,6 @@
   I enjoy playing the piano and working out at gym. 🎹💪
 </p>
 
-<details>
-  <summary> Experience </summary><br>
-    <details>
-      <summary> Internship </summary>
-        <ul>
-          <li>First</li>
-          <li>Second></li>
-        </ul>
-    </details>
-</details>
-<details>
-  <summary> Project </summary>
-    <ul>
-      <li>List1</li>
-    </ul>
-</details>
-
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 
 <p align="center">
