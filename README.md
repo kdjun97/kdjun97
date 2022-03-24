@@ -7,17 +7,29 @@
 -->
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align"right" src="https://github-readme-stats.vercel.app/api?username=kdjun97"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=kdjun97"></a>
 
   <h3>✨ About Me ✨</h3>
   Hi! I wanna be Mobile App Developer using Android. 📱<br>
   I enjoy playing the piano and working out at gym. 🎹💪
   
-  ---
-  <a href="https://www.instagram.com/jumy_dong/">
-    <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/jumy_dong/"
-         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
+  ---  
+  
+  <h3> 💬 Ask Me 💬 </h3>
+
+  <p>
+    <a href="https://www.instagram.com/jumy_dong/">
+      <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/jumy_dong/"
+           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
+    <a href="https://kdjun97.github.io/">
+      <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://kdjun97.github.io/"
+           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
+    <a href="mailto:kdjun97@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kdjun97@gmail.com"/>
+    </a>
+  </p>
   
   
   
@@ -50,24 +62,5 @@
   </a>
 </p>
 
-<h3 align="center"> 💬 Ask Me 💬 </h3>
 
-<p align="center">
-  <a href="https://www.instagram.com/jumy_dong/">
-    <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/jumy_dong/"
-         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
-  <a href="https://kdjun97.github.io/">
-    <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://kdjun97.github.io/"
-         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
-  <a href="mailto:kdjun97@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kdjun97@gmail.com"/>
-  </a>
-  <!--
-  <a href=https://www.instagram.com/jumy_dong/>
-    <img src="https://img.shields.io/badge/Instagram-E4405F?black-style=flat-square&logo=Instagram&logoColor=white"/>
-  </a>
-  -->
-</p>
 -->
