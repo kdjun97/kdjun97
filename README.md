@@ -7,7 +7,7 @@
 -->
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=kdjun97"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" width="auto" src="https://github-readme-stats.vercel.app/api?username=kdjun97"></a>
 
   <h3>✨ About Me ✨</h3>
   Hi! I wanna be Mobile App Developer using Android. 📱<br>
