@@ -46,6 +46,9 @@
     <a href="https://flutter.dev/">
       <img algin="center" alt="Flutter" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
     </a>
+    <a href="https://kotlinlang.org/">
+      <img algin="center" alt="Kotlin" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
+    </a>
     <a href="https://www.mysql.com/">
       <img algin="center" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
     </a>
