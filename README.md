@@ -4,11 +4,6 @@
   <!--<a href="https://solved.ac/kdjun97"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kdjun97"></a>-->
 </div>
 
-<h3 align="center">👨‍💻 Program Solving 👨‍💻</h3>
-<div align="center">
-  <a href="https://solved.ac/kdjun97"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdjun97"></a>
-</div><br>
-
 <div align="center">
   <h3>✨ About Me ✨</h3>
   Hi! I'm interested in Mobile App, Automation Solution and IoT 📱🔐🌐<br>
