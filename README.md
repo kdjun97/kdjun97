@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kotlin-7C6DB2?style=flat-square&logo=Kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   </p>
@@ -40,6 +41,9 @@
     </a>
     <a href="https://flutter.dev/">
       <img algin="center" alt="Flutter" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
+    </a>
+    <a href="https://developer.apple.com/kr/swift/">
+      <img algin="center" alt="Android" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"/>
     </a>
     <a href="https://kotlinlang.org/">
       <img algin="center" alt="Kotlin" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
