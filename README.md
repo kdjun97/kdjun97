@@ -42,7 +42,7 @@
     <a href="https://flutter.dev/">
       <img algin="center" alt="Flutter" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
     </a>
-    <a href="https://developer.apple.com/kr/swift/">
+    <a href="[https://developer.apple.com/kr/swift/](https://www.android.com/intl/ko_kr/)">
       <img algin="center" alt="Android" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"/>
     </a>
     <a href="https://kotlinlang.org/">
