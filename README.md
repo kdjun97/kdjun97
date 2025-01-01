@@ -11,7 +11,7 @@
 ### Experience
 - Hanwha Solutions QCells - (23.01 ~  | Swift)
   - working on smart energy management and monitoring apps to provide global customers with total energy solutions and installers with improved connectivity.
-  - using `SwiftUI`, `[The Composable Architecture(TCA)](https://github.com/pointfreeco/swift-composable-architecture)`, `[Tuist](https://tuist.dev/)`, etc.
+  - using `SwiftUI`, [The Composable Architecture(TCA)](https://github.com/pointfreeco/swift-composable-architecture), [Tuist](https://tuist.dev/), etc.
 - Nuru (22.07 ~ 22.12)
   - 시뮬레이션 형식의 힐링 앱, **홀로서기** 개발 (22.09 ~ 22.12 | Flutter)
   - Nuru 앱 리팩토링 및 Raspberry Pi 연동 추가 기능 개발 (22.07 ~ 22.08 | Kotlin)
