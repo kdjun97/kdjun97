@@ -11,7 +11,7 @@
 
 ### Experience
 - ☀️ Hanwha Solutions QCells (23.01 ~  | Swift)
-  - 글로벌 사용자들에게 Total Energy Solutions를 제공할 수 있는 유저향, 인스톨러향 에너지 관리 및 모니터링 앱 개발
+  - 글로벌 사용자들에게 Total Energy Solutions를 제공할 수 있는 유저향, 인스톨러향 HEMS 앱 개발
 - 🧑‍🌾 Nuru (22.07 ~ 22.12)
   - 시뮬레이션 형식의 힐링 앱, **홀로서기** 개발 (22.09 ~ 22.12 | Flutter)
   - Nuru 앱 리팩토링 및 Raspberry Pi 연동 추가 기능 개발 (22.07 ~ 22.08 | Kotlin)
