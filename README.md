@@ -2,10 +2,12 @@
 - **I'm Dongjun Kim, Jumy.**
 - I'm an Mobile Developer and interested in **IoT**, **Mobile** and **Automation Solutions**!
 <br>
+
 ### App Side Project
 - **Gwansuwon(과수원)** (24.05 ~ 24.08 | Swift)
   - 📱 [과수원 Github](https://github.com/prography-team8/gwasuwon-ios) - 과외 선생님과 학생을 매칭 및 모니터링 서비스 제공 앱
 <br>
+
 ### Experience
 - Hanwha Solutions QCells - (23.01 ~  | Swift)
   - working on smart energy management and monitoring apps to provide global customers with total energy solutions and installers with improved connectivity.
@@ -19,6 +21,7 @@
     - 자체 웹 AutoML Labeling 기능 개발 (21.07 ~ 21.08 | Flutter)
     - 건강 검진 데이터 Text Recognition 기능 개발 (21.06 ~ 21.07 | Flutter)
 <br>
+
 ### Education
 - **🎓 Handong Univ. (2023)**
   - Computer Science & Electronic Engineering (double major)
