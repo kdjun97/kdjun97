@@ -10,7 +10,7 @@
 <br>
 
 ### Experience
-- ☀️ Hanwha Solutions QCells - (23.01 ~  | Swift)
+- ☀️ Hanwha Solutions QCells (23.01 ~  | Swift)
   - working on smart energy management and monitoring apps to provide global customers with total energy solutions and installers with improved connectivity.
 - 🧑‍🌾 Nuru (22.07 ~ 22.12)
   - 시뮬레이션 형식의 힐링 앱, **홀로서기** 개발 (22.09 ~ 22.12 | Flutter)
@@ -18,7 +18,7 @@
 - **Internships**
   - 💪 피엔케이솔루션 (22.03 ~ 22.06)
     - IoT 커넥티드짐 개인화 운동관리 앱 개발 (Flutter)
-  - 🦠 주식회사홀잡펠이펙티브마이크로브스(HEM) - (21.06 ~ 21.08)
+  - 🦠 주식회사홀잡펠이펙티브마이크로브스(HEM) (21.06 ~ 21.08)
     - 자체 웹 AutoML Labeling 기능 개발 (21.07 ~ 21.08 | Flutter)
     - 건강 검진 데이터 Text Recognition 기능 개발 (21.06 ~ 21.07 | Flutter)
 <br>
