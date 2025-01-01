@@ -1,7 +1,7 @@
 ### About Me
 - **I'm Dongjun Kim, Jumy.**
-- I'm an Mobile Developer and interested in **IoT**, **Mobile** and **Automation Solutions**!
-- [LinkedIn Profile](https://www.linkedin.com/in/dongjun-kim-ab3a79255/)
+- 저는 **Mobile**, **IoT** 그리고 **Automation Solutions** 에 관심이 많습니다.
+- [Linked-In Profile](https://www.linkedin.com/in/dongjun-kim-ab3a79255/)
 <br>
 
 ### App Side Project
@@ -11,7 +11,7 @@
 
 ### Experience
 - ☀️ Hanwha Solutions QCells (23.01 ~  | Swift)
-  - working on smart energy management and monitoring apps to provide global customers with total energy solutions and installers with improved connectivity.
+  - 글로벌 사용자들에게 Total Energy Solutions를 제공할 수 있는 유저향, 인스톨러향 에너지 관리 및 모니터링 앱 개발
 - 🧑‍🌾 Nuru (22.07 ~ 22.12)
   - 시뮬레이션 형식의 힐링 앱, **홀로서기** 개발 (22.09 ~ 22.12 | Flutter)
   - Nuru 앱 리팩토링 및 Raspberry Pi 연동 추가 기능 개발 (22.07 ~ 22.08 | Kotlin)
