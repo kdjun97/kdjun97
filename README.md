@@ -1,6 +1,7 @@
 ### About Me
 - **I'm Dongjun Kim, Jumy.**
 - I'm an Mobile Developer and interested in **IoT**, **Mobile** and **Automation Solutions**!
+- [LinkedIn Profile](https://www.linkedin.com/in/dongjun-kim-ab3a79255/)
 <br>
 
 ### App Side Project
