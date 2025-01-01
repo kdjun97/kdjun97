@@ -24,7 +24,8 @@
 
 ### Activity
 - IT 연합 동아리 [Prography](https://prography.org/) 9기 (24.03 ~ 24.08)  
-<br>  
+<br>
+
 ### Education
 - **🎓 Handong Univ. (2023)**
   - Computer Science & Electronic Engineering (double major)
