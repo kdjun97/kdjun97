@@ -5,7 +5,7 @@
 <br>
 
 ### App Side Project
-- **Gwansuwon(과수원)** (24.05 ~ 24.08 | Swift)
+- **Gwasuwon(과수원)** (24.05 ~ 24.08 | Swift)
   - 🧑‍🏫 [과수원 Github](https://github.com/prography-team8/gwasuwon-ios) - 과외 선생님과 학생을 매칭 및 모니터링 서비스 제공 앱
 <br>
 
