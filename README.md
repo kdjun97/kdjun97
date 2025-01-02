@@ -1,6 +1,6 @@
 ### About Me
 - **I'm Dongjun Kim, Jumy.**
-- 저는 **Mobile**, **IoT** 그리고 **Automation Solutions** 에 관심이 많습니다.
+- **Mobile**, **IoT** 그리고 **Automation Solutions** 에 관심이 많습니다.
 - [Linked-In Profile](https://www.linkedin.com/in/dongjun-kim-ab3a79255/)
 <br>
 
