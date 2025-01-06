@@ -28,6 +28,6 @@
 <br>
 
 ### Education
-- **🎓 Handong Univ. (2023)**
+- **🎓 Handong Global Univ. (2023)**
   - Computer Science & Electronic Engineering (double major)
 <br>
