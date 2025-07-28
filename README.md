@@ -6,7 +6,7 @@
 
 ### App Side Project
 - **달릴까말까** (25.06 ~ 25.07 | Flutter)
-  - 🐴 [달릴까말까 Github](https://github.com/APPisode-Dev/run-or-not) - 간단한 내기용 레이스 게임 앱
+  - 🐴 [달릴까말까 Github](https://github.com/APPisode-Dev/run-or-not) - 간단한 내기용 복불복 레이스 앱
 - **Gwasuwon(과수원)** (24.05 ~ 24.08 | Swift)
   - 🧑‍🏫 [과수원 Github](https://github.com/prography-team8/gwasuwon-ios) - 과외 선생님과 학생을 매칭 및 모니터링 서비스 제공 앱
 <br>
