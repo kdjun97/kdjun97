@@ -7,7 +7,7 @@
 ### App Side Project
 - **달릴까말까** (25.06 ~ 25.07 | Flutter)
   - 🐴 [달릴까말까 Github](https://github.com/APPisode-Dev/run-or-not) - 간단한 내기용 복불복 레이스 앱
-- **오목완** (24.08 ~ | Swift)
+- **오목완** (24.08 ~ 26.04 | Swift)
   - 🟠 [오목완 Github](https://github.com/begin-a-gain/omokwan-ios) - 오목 돌을 하나씩 놓으며 하루의 목표를 완성하는 목표 관리 앱
 - **Gwasuwon(과수원)** (24.05 ~ 24.08 | Swift)
   - 🧑‍🏫 [과수원 Github](https://github.com/prography-team8/gwasuwon-ios) - 과외 선생님과 학생을 매칭 및 모니터링 서비스 제공 앱
@@ -18,7 +18,7 @@
   - **Q.OMMAND Pro Gen4** | 차세대 현장 엔지니어의 태양광·에너지 시스템 설치 및 관리를 지원하는 앱 개발 (25.06 ~ | Swift)
   - **Q.OMMAND Pro Gen3** | 현장 엔지니어의 태양광·에너지 시스템 설치 및 관리를 지원하는 앱 개발 (24.04 ~ | Swift)
   - **Q.OMMAND Home 3.0** | 가정의 효율적인 에너지 관리를 위한 주택 소유자용 앱 개발 (24.03 ~ | Swift)
-  - **Q.PLANET**          | 분산된 에너지 자원을 통합 관리하는 한국형 가상발전소(VPP) 앱 개발 (24.02 ~ 24.05 | Swift)
+  - **Q.PLANET**          | 분산된 에너지 자원을 통합 관리하는 가상발전소(VPP) 앱 개발 (24.02 ~ 24.05 | Swift)
   - **Q.OMMAND Pro 1.0**  | 현장 엔지니어의 태양광·에너지 시스템 설치 및 관리를 지원하는 앱 개발 (23.05 ~ 24.04 | Flutter)
   - **Q.OMMAND Home 2.0** | 가정의 효율적인 에너지 관리를 위한 주택 소유자용 앱 개발 (23.04 ~ 24.03 | Flutter)
 - 🧑‍🌾 Nuru(느루) (22.07 ~ 22.12)
