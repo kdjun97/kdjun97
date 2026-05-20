@@ -14,7 +14,7 @@
 <br>
 
 ### Experience
-- ☀️ Hanwha Solutions QCells (23.01 ~ | Swift, Flutter)
+- ☀️ Hanwha Solutions Qcells (23.01 ~ | Swift, Flutter)
   - **Q.OMMAND Pro Gen4** | 차세대 현장 엔지니어의 태양광·에너지 시스템 설치 및 관리를 지원하는 앱 개발 (25.06 ~ | Swift)
   - **Q.OMMAND Pro Gen3** | 현장 엔지니어의 태양광·에너지 시스템 설치 및 관리를 지원하는 앱 개발 (24.04 ~ | Swift)
   - **Q.OMMAND Home 3.0** | 가정의 효율적인 에너지 관리를 위한 주택 소유자용 앱 개발 (24.03 ~ | Swift)
