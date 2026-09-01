@@ -27,7 +27,7 @@
 
 ### Activity
 - IT 연합 동아리 [CMC](https://cmc.makeus.in/) 19기 (26.05 ~ )
-  - 🏆 CMC 19기 대상·1위 (MODY)
+  - 🏆 대상·1위 (MODY)
 - IT 연합 동아리 [Prography](https://prography.org/) 9기 (24.05 ~ 24.08)  
 <br>
 
