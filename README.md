@@ -16,7 +16,7 @@
 
 ### App Side Project
 - **MODY(모디)** (26.05 ~ 26.08 | Swift)
-  - 💪 [MODY(모디) Github](https://github.com/Central-MakeUs/mody-ios) - 친구들과 함께하는 운동·식단 인증 챌린지
+  - 💪 [MODY Github](https://github.com/Central-MakeUs/mody-ios) - 친구들과 함께하는 운동·식단 인증 챌린지
 - **오목완** (24.08 ~ 26.04 | Swift)
   - 🟠 [오목완 Github](https://github.com/begin-a-gain/omokwan-ios) - 오목 돌을 하나씩 놓으며 하루의 목표를 완성하는 목표 관리 앱
 - **달릴까말까** (25.06 ~ 25.07 | Flutter)
